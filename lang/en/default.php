@@ -1,0 +1,21 @@
+<?php
+$lang=Array(
+    'Work'    =>  'Work',
+    'Info'    =>  'Info',
+    'Archive'    =>  'Archive',
+    'K/R + P'    =>  'K/R + P',
+    'backWorks'    =>  'Back to Works',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+    'shoes'    =>  'shoes',
+);
